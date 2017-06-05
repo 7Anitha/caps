@@ -1,10 +1,10 @@
 import java.io.*;
-import java.util.scanner;
+import java.util.Scanner;
 class positive
 {
 public static void main(String asgs[])
 {
-Scanner s=new Sanner(System.in);
+Scanner s=new Scanner(System.in);
 int n=s.nextInt();
 if(n==0)
 {
